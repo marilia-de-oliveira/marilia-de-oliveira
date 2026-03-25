@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/marilia-de-oliveira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilia-de-oliveira&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilia-de-oliveira&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilia-de-oliveira&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
